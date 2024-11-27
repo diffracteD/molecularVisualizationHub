@@ -2,6 +2,7 @@
 Given that a PDB having two chains (A and B), this code will rotate it 360 degree along provided Z axis.
 THen seperate each chain and put them back together.
 $$ UNDER TESTING 
+Designed By: Abhisek Mondal, UCSF
 '''
 
 from chimera import runCommand
